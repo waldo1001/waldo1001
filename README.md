@@ -5,6 +5,9 @@
 
 [![BLOG](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://www.waldo.be/) [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ericwauters/) [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/waldo1001)
 
+### My GitHub Contributions
+
+![Metrics](./github-metrics.svg)
 
 ### If you want to support me, I'm always happy with a cup of coffee 😉
 
