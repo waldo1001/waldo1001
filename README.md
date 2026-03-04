@@ -13,3 +13,5 @@
 ### If you want to support me, I'm always happy with a cup of coffee 😉
 
 [![https://www.buymeacoffee.com/waldo](./images/buymeacoffeeSmall.png)](https://www.buymeacoffee.com/waldo)
+
+Or .. [❤️ Sponsor me on GitHub](https://github.com/sponsors/waldo1001)
